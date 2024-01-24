@@ -1,0 +1,14 @@
+#image{
+    display:block;
+    max-width:100%;
+    height:auto;
+  margin: 0: auto;
+  
+ 
+  }
+  
+  *{
+    background-color: grey;
+  font-family: sans-serif;
+
+  }
